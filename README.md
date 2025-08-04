@@ -37,6 +37,7 @@ It acts as an **interface for intelligent orchestration** — a visual container
 ---
 
 ## 🧱 Project Structure
+<img width="1920" height="1032" alt="orb-neutral" src="https://github.com/user-attachments/assets/e5483438-7a8b-4814-b451-81734dcc3f78" />
 
 ```bash
 PromptForge_24H/
