@@ -1,7 +1,7 @@
 # ⚡ PromptForge_24H  
 **Immersive Prompt-Reactive AGI Orb System | Built in Unity for Real-Time Cognitive Interaction**
 
-![PromptForge Banner](./Assets/PromptForge/Images/banner-placeholder.png)
+![PromptForge Orb - Neutral](./Assets/PromptForge/Images/orb-neutral.png)
 
 ---
 
